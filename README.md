@@ -22,6 +22,12 @@ Crear la estructura básica del proyecto.
 
 Rellenar el fichero README.md con los datos personales, la estructura del proyecto, la descripción de las columnas del dataset creado y algunos enunciados de posibles preguntas sobre esos datos.
 
-Definir una tupla con nombre para almacenar los datos.
+La descripción del dataset debe hacerse por columnas. Por ejemplo:
+
+El dataset está compuesto por <N> columnas, con la siguiente descripción:
+<columna 1>: de tipo <tipo>, representa....
+<columna 2>: de tipo <tipo>, representa.... ....
+
+Definir una tupla con nombre (namedtuple) para almacenar los datos.
 
 Escribir en el módulo principal una función que lea los datos del fichero y los almacene en una lista de tuplas. Escribir en el módulo de pruebas un test de esta función, visualizando en pantalla el número total de registros leídos, los 3 primeros registros leídos y los 3 últimos registros leídos.
