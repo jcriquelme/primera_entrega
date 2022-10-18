@@ -25,7 +25,9 @@ Rellenar el fichero README.md con los datos personales, la estructura del proyec
 La descripción del dataset debe hacerse por columnas. Por ejemplo:
 
 El dataset está compuesto por <N> columnas, con la siguiente descripción:
+
 <columna 1>: de tipo <tipo>, representa....
+
 <columna 2>: de tipo <tipo>, representa.... ....
 
 Definir una tupla con nombre (namedtuple) para almacenar los datos.
