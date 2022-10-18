@@ -2,7 +2,9 @@
 Primera entrega del proyecto de curso
 
 Fecha límite de envío: domingo 23 de octubre a las 23:59 horas.
+
 Estructura general del proyecto:
+
 El proyecto debe contener dos carpetas: src y data.
 La carpeta data debe incluir el fichero CSV del dataset que haya creado.
 El dataset debe tener variedad de tipos de datos: string, enteros, reales, fechas, horas, booleanos.
